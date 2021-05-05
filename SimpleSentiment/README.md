@@ -4,6 +4,7 @@
 - Use MultiClass DeepSentiPers original Dataset in your dataset folder for this task
 <ol> <li>Furious</li> <li>Angry</li> <li>Neutral</li> <li>Happy</li> <li>Delighted</li> </ol>
 <div class="table-wrapper"><table> <thead> <tr> <th style="text-align: center">Label</th> <th style="text-align: center">#</th> </tr> </thead> <tbody> <tr> <td style="text-align: center">Furious</td> <td style="text-align: center">236</td> </tr> <tr> <td style="text-align: center">Angry</td> <td style="text-align: center">1357</td> </tr> <tr> <td style="text-align: center">Neutral</td> <td style="text-align: center">2874</td> </tr> <tr> <td style="text-align: center">Happy</td> <td style="text-align: center">2848</td> </tr> <tr> <td style="text-align: center">Delighted</td> <td style="text-align: center">2516</td> </tr> </tbody> </table></div>
+
 ```
 @misc{sharami2020deepsentipers,
     title={DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus},
@@ -23,7 +24,7 @@
 - Build a Docker Image for your code
 - Config Your Docker Image
 
-<h2>BUILD LANGUAGE MODEL<h2>
+<h2>BUILD LANGUAGE MODEL</h2>
 
 - Build a Language model Using Gensim.
 
@@ -37,7 +38,7 @@
 
 - Write a RestApi using flask or Django for testing your sentiment model.
 
-<h2>***Bonus***</h2> 👇👇👇
+<h2>***Bonus*** 👇👇👇</h2> 
 
 <h2>BUILD DOCKER IMAGE</h2>
 
